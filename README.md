@@ -82,7 +82,6 @@ yiyang-control-panel/
 ├── gradle/                      Gradle Wrapper 配置
 ├── Product-Spec.md              产品需求文档
 ├── Product-Spec-CHANGELOG.md    需求变更记录
-├── UI-Prompts.md                原型提示词文档
 ├── CHANGELOG.md                 项目变更日志
 ├── CONTRIBUTING.md              贡献说明
 ├── SECURITY.md                  安全说明
@@ -108,7 +107,6 @@ yiyang-control-panel/
 
 - [Product-Spec.md](./Product-Spec.md)
 - [Product-Spec-CHANGELOG.md](./Product-Spec-CHANGELOG.md)
-- [UI-Prompts.md](./UI-Prompts.md)
 - [CHANGELOG.md](./CHANGELOG.md)
 - [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [SECURITY.md](./SECURITY.md)
